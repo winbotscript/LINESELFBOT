@@ -3,7 +3,7 @@
 ## -> Installation
 
 ```sh
-$ python -m pip install requirement.txt
+$ python -m pip install -r requirement.txt
 $ python client.py
 ```
 
