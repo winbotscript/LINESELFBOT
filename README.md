@@ -1,4 +1,4 @@
-# LINE SELF BOT
+# LINE SELF BOT BY PASUNX
 
 ## Installation
 
