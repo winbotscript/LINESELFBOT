@@ -1,4 +1,4 @@
-## LINE SELF BOT
+# LINE SELF BOT
 
 ## Installation
 
@@ -7,4 +7,4 @@ $ python -m pip install requirement.txt
 $ python client.py
 ```
 
-# Credit By @PASUNX
+## Credit By @PASUNX
