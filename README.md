@@ -7,4 +7,5 @@ $ python -m pip install requirement.txt
 $ python client.py
 ```
 
-## Credit By @PASUNX
+## Credit by @PASUNX
+- `LINE ID: pasunx.tk`
